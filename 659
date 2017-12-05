@@ -1,0 +1,3 @@
+git add -A
+git commit -m "Commit pertama"  <~~ sesuaikan commit message, sesuai perubahan yang dikirim  
+git push -u origin master
